@@ -1,0 +1,24 @@
+{
+  "name": "todo-mern-stack",
+  "version": "1.0.0",
+  "description": "Tutorial: ToDo App using MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darswright/todo-mern-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darswright/todo-mern-stack/issues"
+  },
+  "homepage": "https://github.com/darswright/todo-mern-stack#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7",
+    "mongoose": "^5.3.13"
+  }
+}
